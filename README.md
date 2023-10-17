@@ -1,6 +1,6 @@
-# Evingtone Email Library
+# Evin Email Library
 
-My Email Library is a customizable Java library for sending emails with support for HTML content, attachments, and configurable retry mechanisms. It simplifies the process of integrating email functionality into your Spring Boot applications.
+Evin Library is a customizable Java library for sending emails with support for HTML content, attachments, and configurable retry mechanisms. It simplifies the process of integrating email functionality into your Spring Boot applications.
 
 ## Features
 
